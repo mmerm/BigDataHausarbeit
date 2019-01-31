@@ -1,0 +1,5 @@
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\MergeJSONFiles\bin\Debug\MergeJSONFiles.exe.config
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\MergeJSONFiles\bin\Debug\MergeJSONFiles.exe
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\MergeJSONFiles\bin\Debug\MergeJSONFiles.pdb
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\MergeJSONFiles\obj\Debug\MergeJSONFiles.exe
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\MergeJSONFiles\obj\Debug\MergeJSONFiles.pdb

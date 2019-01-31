@@ -1,0 +1,5 @@
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\FindBZ2Archives\bin\Debug\FindBZ2Archives.exe.config
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\FindBZ2Archives\bin\Debug\FindBZ2Archives.exe
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\FindBZ2Archives\bin\Debug\FindBZ2Archives.pdb
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\FindBZ2Archives\obj\Debug\FindBZ2Archives.exe
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\FindBZ2Archives\obj\Debug\FindBZ2Archives.pdb
