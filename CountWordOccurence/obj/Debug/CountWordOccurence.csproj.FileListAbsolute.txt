@@ -1,0 +1,6 @@
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\CountWordOccurence\bin\Debug\CountWordOccurence.exe.config
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\CountWordOccurence\bin\Debug\CountWordOccurence.exe
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\CountWordOccurence\bin\Debug\CountWordOccurence.pdb
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\CountWordOccurence\obj\Debug\CountWordOccurence.csprojResolveAssemblyReference.cache
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\CountWordOccurence\obj\Debug\CountWordOccurence.exe
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\CountWordOccurence\obj\Debug\CountWordOccurence.pdb

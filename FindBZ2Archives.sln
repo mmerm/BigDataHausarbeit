@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeJSONFiles", "MergeJSON
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertJSON2CSV", "ConvertJSON2CSV\ConvertJSON2CSV.csproj", "{D9D161ED-709C-4454-BC28-30C685642FF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountWordOccurence", "CountWordOccurence\CountWordOccurence.csproj", "{B0411108-0990-4642-A528-3ED2D45AED64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D9D161ED-709C-4454-BC28-30C685642FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9D161ED-709C-4454-BC28-30C685642FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9D161ED-709C-4454-BC28-30C685642FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0411108-0990-4642-A528-3ED2D45AED64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0411108-0990-4642-A528-3ED2D45AED64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0411108-0990-4642-A528-3ED2D45AED64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0411108-0990-4642-A528-3ED2D45AED64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
