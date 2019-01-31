@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindBZ2Archives", "FindBZ2A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeJSONFiles", "MergeJSONFiles\MergeJSONFiles.csproj", "{A0BAEA2D-FFF6-47C9-B400-EA2B00F329C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertJSON2CSV", "ConvertJSON2CSV\ConvertJSON2CSV.csproj", "{D9D161ED-709C-4454-BC28-30C685642FF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A0BAEA2D-FFF6-47C9-B400-EA2B00F329C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0BAEA2D-FFF6-47C9-B400-EA2B00F329C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0BAEA2D-FFF6-47C9-B400-EA2B00F329C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D161ED-709C-4454-BC28-30C685642FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D161ED-709C-4454-BC28-30C685642FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D161ED-709C-4454-BC28-30C685642FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D161ED-709C-4454-BC28-30C685642FF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

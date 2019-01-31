@@ -1,0 +1,9 @@
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\ConvertJSON2CSV\bin\Debug\ConvertJSON2CSV.exe.config
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\ConvertJSON2CSV\bin\Debug\ConvertJSON2CSV.exe
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\ConvertJSON2CSV\bin\Debug\ConvertJSON2CSV.pdb
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\ConvertJSON2CSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\ConvertJSON2CSV\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\ConvertJSON2CSV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\ConvertJSON2CSV\obj\Debug\ConvertJSON2CSV.exe
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\ConvertJSON2CSV\obj\Debug\ConvertJSON2CSV.pdb
+C:\Users\m.mayr\Documents\Visual Studio 2015\Projects\ProductPicker\FindBZ2Archives\ConvertJSON2CSV\obj\Debug\ConvertJSON2CSV.csprojResolveAssemblyReference.cache
