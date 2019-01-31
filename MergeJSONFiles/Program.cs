@@ -69,7 +69,6 @@ namespace MergeJSONFiles
                                 }
                                 //Delete bz2 Archive - safe disk space
                                 string archivePath = file + ".bz2";
-                                File.Delete(archivePath);
                                 //Add to remove list to avoid double checking
                                 toDelFile.Add(archivePath);
                                 toDelFile.Add(file);
@@ -86,6 +85,8 @@ namespace MergeJSONFiles
                     foreach (string toDel in toDelFile)
                     {
                         fileList.Remove(toDel);
+                        //free disk space
+                        File.Delete(toDel);
                     }
                     Console.WriteLine("{0}", i.ToString("D2"));
                     Console.WriteLine("Day {0} done, press enter to continue...", i.ToString("D2"));
